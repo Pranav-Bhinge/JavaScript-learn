@@ -25,3 +25,20 @@ console.log(booleanIsLoggedIn);
 let somenumber=33
 let somenumberString=String(somenumber);
 console.log(typeof somenumberString);
+
+//******************************** Operations ********************
+let value=3
+let negvalue=-value;
+console.log(negvalue);
+
+let str1="hello"
+let str2="Pranav"
+let str3=str1+str2
+console.log(str3);
+
+console.log("1"+2);
+console.log(1+"2");
+console.log("1"+2+2);
+console.log(1+2+"2");//first it will add the merge string with number
+
+
