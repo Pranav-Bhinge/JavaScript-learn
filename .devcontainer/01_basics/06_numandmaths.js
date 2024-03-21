@@ -16,7 +16,7 @@ console.log(hundreds.toLocaleString('en-IN'));//beautify it make it readable
 
 //++++++++++++++++++++ maths +++++++++++++++++++++++//
 console.log(Math);//it is an object
-console.log(m=Math.abs(-4));//+4
+console.log(Math.abs(-4));//+4
 console.log(Math.round(5.6));//6
 console.log(Math.ceil(4.2))//5
 console.log(Math.floor(4.9));//4
